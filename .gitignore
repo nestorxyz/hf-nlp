@@ -262,3 +262,6 @@ $RECYCLE.BIN/
 
 # env
 hf-nlp
+
+# training
+test-trainer
